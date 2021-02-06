@@ -1,5 +1,5 @@
 # README
-MessageMe, following section 7 of Udemy course 
+MessageMe, following section 8 of Udemy course 
 - "The Complete Ruby on Rails Developer Course"
 https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course
 
